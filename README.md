@@ -8,4 +8,4 @@
 Preferred OS: Windows XP/7/8/10
 
 ## Game Play
- - Pics coming soon
+ ![](GAMEPLAY.jpg)
